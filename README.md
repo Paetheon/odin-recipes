@@ -2,6 +2,8 @@
 
 What the project goal?
 
-The project goal will help me get a deeper understanding of all the HTML i have thus learned so far. This by no means will show the full capability of HTML but rather, just to build my HTML chops.
+- To help portray my understanding of HTML thus far following Odin Project & to timestamp my progress for self-reflection + documentation.
 
 What did you learn & realize throughout this project?
+
+- Will be filled in after.
